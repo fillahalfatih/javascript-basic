@@ -16,8 +16,8 @@ nav {
 }
 
 nav h1 {
-  font-family: monospace;
-  font-size: 34px;
+  font-family: 'Source Code Pro', monospace;
+  font-size: 32px;
   color: #FFF;
   margin: 0px;
 }
@@ -29,7 +29,7 @@ nav h1 {
 }
 
 .container h2 {
-  font-family: monospace;
+  font-family: 'Source Code Pro', monospace;
   font-size: 30px;
   text-align: center;
   margin: 45px 0px 45px 0px;
@@ -46,8 +46,9 @@ nav h1 {
 }
 
 .container ul li a {
-  font-family: monospace;
+  font-family: 'Source Code Pro', monospace;
   font-size: 18px;
+  font-weight: 500;
   color: #454545;
   background-color: #FFF;
   border: 1px solid #454545;
